@@ -126,11 +126,13 @@ score yet nor does it draw x more tiles from boneyard) 3 hours spent each day
 5. Human input for stacking opponent’s stack (shows legal moves on opponent’s side B11 was the played tile) 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.016.jpeg)
+
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.017.jpeg)
 
 6. Human input for stacking on its own stack 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.018.jpeg)
+
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.019.jpeg)
 
 7. Save game 
