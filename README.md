@@ -98,46 +98,39 @@ score yet nor does it draw x more tiles from boneyard) 3 hours spent each day
 
 ## Screen shots 
 
-1. Main Menu![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.005.png)
+1. Main Menu
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.006.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.007.jpeg)
 
 2. Round information so far
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.008.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.009.jpeg)
 
 3. Computer player method (BEFORE UPDATE TILES)
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.010.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.011.jpeg)
 
 (AFTER UPDATING TILES) 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.012.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.013.jpeg)
 
 4. Help mode
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.014.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.015.jpeg)
 
 5. Human input for stacking opponent’s stack (shows legal moves on opponent’s side B11 was the played tile) 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.016.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.017.jpeg)
 
 6. Human input for stacking on its own stack 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.018.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.019.jpeg)
 
 7. Save game 
@@ -151,21 +144,16 @@ score yet nor does it draw x more tiles from boneyard) 3 hours spent each day
 9. When Human player can’t make any moves 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.022.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.023.jpeg)
 
 10. Which player won 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.024.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.025.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.026.jpeg)
 
 11. Which player won the tournament 
 
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.027.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.028.jpeg)
-
 ![](Aspose.Words.4cc29652-0d00-4c98-af3b-dfdea9e7d876.029.jpeg)
