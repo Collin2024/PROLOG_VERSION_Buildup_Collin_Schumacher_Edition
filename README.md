@@ -86,9 +86,7 @@ From there, type clear && swipl Collin.pl and the program should run.
 4. 4/12/2023-4/15/2023 Announces first player, creates the game list from the 6 lists, and displays all moves from the Human player. 5 hours spent on it each day 
 4. 4/16/2023 Human player now has a menu and can make a legal move. The game updates the stacks accordingly and updates the turn. 10 hours spent 
 4. 4/17/2023 Computer player now plays RANDOMLY BUT LEGALLY (on 4/23/2023 computer will have a playing strategy of maximum tile coverage see number 10 for details) and can make a legal move, update the stacks accordingly, and update the turn. 10 hours spent 
-4. 4/18/2023-4/19/2023 Players now alternate turns until there are no more legal moves and then terminates (does not 
-
-score yet nor does it draw x more tiles from boneyard) 3 hours spent each day 
+4. 4/18/2023-4/19/2023 Players now alternate turns until there are no more legal moves and then terminates (does not score yet nor does it draw x more tiles from boneyard) 3 hours spent each day 
 
 8. 4/20/2023 When there are no more legal moves the game now scores correctly and draws x more tiles from the boneyard (does not announce a winner yet). At this time serialization also works correctly. 8 hours spent 
 8. 4/21/2023-4/22/2023 Announces a winner of a round and updates rounds won accordingly, along with prompting for another round. If another round is requested it creates a new game with the current rounds won. Otherwise, it announces the winner of the tournament. 3 hours spent each day 
